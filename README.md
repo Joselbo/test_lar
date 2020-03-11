@@ -69,3 +69,4 @@ Al final del archivo escribir
 Guardar y cerrar
 Reiniciar apache y listo, nuestro proyecto nos debe abrir en el nevegador con nuestro dominio, en este caso segundoteste.com (6.1)
 Si deseamos crear mas dominios para otros proyectos repetir los mismos pasos agregando los nuevos dominios en los 2 archivos que modificamos
+
